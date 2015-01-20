@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Noticer</string>
+    <string name="action_settings">Settings</string>
+    <string name="NoticerServiceToggle">Noticer service is:</string>
+    <string name="MainMenuListEventsToNotify">Events to notify</string>
+    <string name="MainMenuListLinkedDevices">Linked devices</string>
+    <string name="MainMenuListNotificationHistory">Notification history</string>
+    <string name="MainMenuListSendTest">Send test notification</string>
+    <string name="title_activity_linked_devices">Linked Devices</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_events_to_notify">Events To Notify</string>
+    <string name="title_activity_notification_history">Notification History</string>
+    <string name="title_activity_send_test">Send Test Notification</string>
+    <string name="AddDeviceMenuBtn">Add device</string>
+    <string name="title_activity_link_new_device">LinkNewDevice</string>
+
+</resources>
